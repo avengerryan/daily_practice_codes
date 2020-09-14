@@ -1,7 +1,7 @@
 
 # python string maketrans() : returns a translation table
 # the string maketrans() method returns a mapping table for transaction usable
-# for translate usable for tanslate() method
+# for translate() method
 
 # string.maketrans(x[, y[, z]])
 
@@ -11,7 +11,7 @@
 
 """
 
-# e.g.1: tanslation table using a dictionary with maketrans()
+# e.g.1: translation table using a dictionary with maketrans()
 
 # e.g. dictionary
 dict = {'a': '123', 'b': '456', 'c': '789'}
